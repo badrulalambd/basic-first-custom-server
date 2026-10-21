@@ -1,0 +1,16 @@
+{
+  "name": "first-server",
+  "version": "0.0.1",
+  "description": "I'm creating my first ever server for learign nodejs with express",
+  "license": "ISC",
+  "author": "Badrul",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
